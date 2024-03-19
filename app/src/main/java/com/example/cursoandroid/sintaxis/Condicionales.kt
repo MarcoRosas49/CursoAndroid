@@ -1,4 +1,4 @@
-package com.example.cursoandroid
+package com.example.cursoandroid.sintaxis
 
 fun main(){
     condicionalIf(name = "marco")

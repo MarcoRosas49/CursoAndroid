@@ -1,6 +1,4 @@
-package com.example.cursoandroid
-
-import kotlin.reflect.typeOf
+package com.example.cursoandroid.sintaxis
 
 fun main(){
 
